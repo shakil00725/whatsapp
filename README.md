@@ -2,6 +2,8 @@
 
 A new WhatsApp Clone Flutter project.
 
+![](src/49165613_327817974611627_7383054451180830720_n.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
