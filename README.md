@@ -1,6 +1,6 @@
-# instragram
+# WhatsApp_Clone
 
-A new Flutter project.
+A new WhatsApp Clone Flutter project.
 
 ## Getting Started
 
